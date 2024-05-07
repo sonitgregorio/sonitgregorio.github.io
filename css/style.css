@@ -72,7 +72,11 @@ footer.page-footer .footer-copyright {
 .img-thumbnail {
     border-radius: 50%;
     margin-top: -70px;
+    width: 200px;
+    height: 200px;
 }
+
+
 
 .bg-white {
     background-color: #b0bec5;
